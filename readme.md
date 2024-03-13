@@ -41,9 +41,10 @@ Certifique-se de seguir as melhores práticas de desenvolvimento para a tecnolog
 
 Como caso você decida ir um pouco mais além recomendamos os seguintes passos:
 
-1. Sistema de Login pode usar um usuário mockado mesmo.
-2. Animações e Transições diferentes.
-3. Testes
+1. Geolocalização com mapa das unidades
+2. Sistema de Login pode usar um usuário mockado mesmo.
+3. Animações e Transições diferentes.
+4. Testes
 
 ## Como Submeter
 
